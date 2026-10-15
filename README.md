@@ -4,6 +4,7 @@
 > **Repository Name:** `cognevance_ecommerceAnalyticsPlatform`  
 > **Developer:** Shahnawaz Khan  
 > **Submission Email:** support@cognevance.online  
+> **Live Deployment URL:** [https://cognevanceecommerceanalytics.vercel.app](https://cognevanceecommerceanalytics.vercel.app)  
 > **Framework:** Next.js 16 (App Router) + React 19 + Tailwind CSS + JWT Authentication + REST APIs
 
 ---
